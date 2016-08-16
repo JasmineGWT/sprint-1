@@ -5,13 +5,13 @@ A command line is a way of interacting with a computer program by typing out the
 
 10 commands used in a command line
 
-cd - Used to navigate through folders, paths, and directories
-ls - Used to list everything within a directory
-touch - Used to create a new empty file
-cp - Used to copy a file
-mv - Used to move a file
-rm - Used to remove a file
-cat - Used to view a file
-pwd - Used to identify your current directory
-rm -r - Used to remove a directory
-mkdir - Used to make a directory
+cd - Used to navigate through folders, paths, and directories.
+ls - Used to list everything within a directory.
+touch - Used to create a new empty file.
+cp - Used to copy a file.
+mv - Used to move a file.
+rm - Used to remove a file.
+cat - Used to view a file.
+pwd - Used to identify your current directory.
+rm -r - Used to remove a directory.
+mkdir - Used to make a directory.
